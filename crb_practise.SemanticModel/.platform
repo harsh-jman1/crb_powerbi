@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "crb_practise"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "c054e05b-519a-4058-8803-638cf20fb000"
+  }
+}
