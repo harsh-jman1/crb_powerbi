@@ -19,12 +19,12 @@
             "height": 300,
             "width": 234
           },
-          "zIndex": 0
+          "zIndex": 1
         },
         {
           "location": {
-            "x": 698,
-            "y": 68
+            "x": 282,
+            "y": 298
           },
           "nodeIndex": "customer",
           "nodeLineageTag": "f1b9492f-312e-46d7-90cc-759c84276bc1",
@@ -32,7 +32,46 @@
             "height": 224,
             "width": 234
           },
-          "zIndex": 0
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 553,
+            "y": 223
+          },
+          "nodeIndex": "snowball_output1 2(in)",
+          "nodeLineageTag": "4d29845c-04e0-48cd-9d8f-f986636111f8",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 452,
+            "y": 0
+          },
+          "nodeIndex": "Product",
+          "nodeLineageTag": "e508d3f4-18a0-4e04-893f-566a4e13a4df",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 808,
+            "y": 109.5
+          },
+          "nodeIndex": "Calendar",
+          "nodeLineageTag": "822f173e-24b7-4f86-9a9c-6d346eda534a",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 5
         }
       ],
       "name": "All tables",
